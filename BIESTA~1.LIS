@@ -1,0 +1,27 @@
+AutoECO Report
+FILE-A: C:\MEUS DOCUMENTOS\PROJETOS\BIESTAVEL.MAX
+FILE-B: C:\MEUS DOCUMENTOS\PROJETOS\BIESTAVEL.MNL
+If "*EOF*" immediately follows, no changes were made
+Adding footprint DIP 14
+Adding footprint CON2
+Adding footprint CON1
+Adding package 14013
+Adding package CON2
+Adding package CON1
+Adding component U1
+Adding component J1
+Adding component J5
+Adding component J4
+Adding component J2
+Adding component J3
+Adding net N00053
+Adding net N00049
+Adding net N00086
+Adding net GND
+Adding net VCC
+Adding net N00567
+Adding net N00535
+Adding net N00531
+Deleting net DEFAULT
+*EOF*
+No errors found
